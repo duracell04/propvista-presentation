@@ -8,131 +8,137 @@
   {
     "number": 2,
     "week": 1,
-    "title": "Mein Einstieg bei Tatsson",
+    "title": "Mein Praktikumsgeber",
     "seconds": 18
   },
   {
     "number": 3,
     "week": 1,
-    "title": "Kundenbedarf und Projektauftrag",
+    "title": "Meine Ausgangslage",
     "seconds": 20
   },
   {
     "number": 4,
+    "week": 1,
+    "title": "Kundenbedarf und Projektauftrag",
+    "seconds": 20
+  },
+  {
+    "number": 5,
     "week": 2,
     "title": "Praxisbeispiel aus der Recherche",
     "seconds": 18
   },
   {
-    "number": 5,
+    "number": 6,
     "week": 2,
     "title": "Wirtschaftliche Einordnung der Plugin-Idee",
     "seconds": 22
   },
   {
-    "number": 6,
+    "number": 7,
     "week": 2,
     "title": "WordPress: Core, Theme und Plugin",
     "seconds": 22
   },
   {
-    "number": 7,
+    "number": 8,
     "week": 3,
     "title": "PHP und das Client-Server-Modell",
     "seconds": 26
   },
   {
-    "number": 8,
+    "number": 9,
     "week": 3,
     "title": "Hooks: Registrierung und Ausführung",
     "seconds": 28
   },
   {
-    "number": 9,
+    "number": 10,
     "week": 4,
     "title": "Interne Testumgebung und Arbeitsablauf",
     "seconds": 15
   },
   {
-    "number": 10,
+    "number": 11,
     "week": 5,
     "title": "Mockup und Benutzerführung",
     "seconds": 20
   },
   {
-    "number": 11,
+    "number": 12,
     "week": 5,
     "title": "Kernfunktion und Priorisierung mit Tato",
     "seconds": 17
   },
   {
-    "number": 12,
+    "number": 13,
     "week": 6,
     "title": "Plugin-Grundgerüst und Zuständigkeiten",
     "seconds": 16
   },
   {
-    "number": 13,
+    "number": 14,
     "week": 7,
     "title": "Datenstruktur und relative Markerpositionen",
     "seconds": 18
   },
   {
-    "number": 14,
+    "number": 15,
     "week": 7,
     "title": "Kontrollpunkt: Zwischenbericht",
     "seconds": 14
   },
   {
-    "number": 15,
+    "number": 16,
     "week": 8,
     "title": "Administration und geprüftes Speichern",
     "seconds": 20
   },
   {
-    "number": 16,
+    "number": 17,
     "week": 8,
     "title": "Speicherweg und späterer Seitenaufruf",
     "seconds": 22
   },
   {
-    "number": 17,
+    "number": 18,
     "week": 9,
     "title": "Frontend-Integration mit einem Shortcode",
     "seconds": 16
   },
   {
-    "number": 18,
+    "number": 19,
     "week": 10,
     "title": "Kernfunktion: Auswahl einer Einheit",
     "seconds": 24
   },
   {
-    "number": 19,
+    "number": 20,
     "week": 10,
     "title": "Unabhängiger Zustand je Einbindung",
     "seconds": 20
   },
   {
-    "number": 20,
+    "number": 21,
     "week": 11,
     "title": "Tests, Ergebnisse und bekannte Grenzen",
     "seconds": 20
   },
   {
-    "number": 21,
+    "number": 22,
     "week": 11,
     "title": "Fehleranalyse des Testablaufs",
     "seconds": 18
   },
   {
-    "number": 22,
+    "number": 23,
     "week": 12,
     "title": "Dokumentation, Übergabe und Soll-Ist",
     "seconds": 23
   },
   {
-    "number": 23,
+    "number": 24,
     "week": 12,
     "title": "Fazit: Technik, Arbeitsweise und Ausblick",
     "seconds": 23

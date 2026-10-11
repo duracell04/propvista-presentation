@@ -13,9 +13,10 @@
   };
   const counter = () => {
     const number = Reveal.getIndices().h + 1;
-    document.getElementById('counter').textContent = `${number} / 23`;
+    const total = Reveal.getTotalSlides();
+    document.getElementById('counter').textContent = `${number} / ${total}`;
     previous.disabled = number === 1;
-    next.disabled = number === 23;
+    next.disabled = number === total;
   };
   const fullscreen = async () => {
     try {
