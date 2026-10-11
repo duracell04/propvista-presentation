@@ -33,7 +33,10 @@
   document.getElementById('close-help').addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', revealTools);
   document.addEventListener('pointermove', revealTools, {passive:true});
-  document.addEventListener('keydown', revealTools);
+  document.addEventListener('keydown', event => {
+    if (['ArrowLeft','ArrowRight',' ','Home','End','Escape','f','F','b','B'].includes(event.key) && tools.contains(document.activeElement)) document.activeElement.blur();
+    revealTools();
+  });
   document.addEventListener('touchstart', revealTools, {passive:true});
   document.addEventListener('fullscreenchange', () => {
     document.getElementById('fullscreen').textContent = document.fullscreenElement ? 'Vollbild verlassen' : 'Vollbild';
