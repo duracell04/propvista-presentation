@@ -1,0 +1,44 @@
+@font-face{font-family:'Noto Sans';src:url('assets/fonts/NotoSans-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'Noto Sans';src:url('assets/fonts/NotoSans-Bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:block}
+:root{--navy:#153541;--teal:#087e80;--paper:#f9f8f4}
+html,body{width:100%;height:100%;background:var(--navy);overflow:hidden}
+body{font-family:'Noto Sans',sans-serif}
+.reveal{font-family:'Noto Sans',sans-serif;color:#334b55;font-size:27px}
+.reveal .slides{text-align:left}
+.reveal .slides>section{padding:0;width:1280px;height:720px;margin:0;line-height:1.18}
+.slide-canvas{position:relative;width:1280px;height:720px;overflow:hidden}
+.slide-object{position:absolute;box-sizing:border-box;margin:0}
+.text-object,.box-object{display:flex;flex-direction:column}
+.text-run{white-space:pre-wrap;overflow-wrap:normal;width:100%;min-width:0;line-height:1.18}
+.connector{position:absolute;inset:0;width:1280px;height:720px;pointer-events:none}
+.reveal .slides .cropped-image{overflow:hidden}
+.reveal .slides .cropped-image img{position:absolute;max-width:none;max-height:none;margin:0;border:0;box-shadow:none;object-fit:fill}
+.table-object table{width:100%;height:100%;table-layout:fixed;border-collapse:collapse;margin:0;font-size:inherit}
+.reveal .table-object th,.reveal .table-object td{padding:5px 9px;vertical-align:top;white-space:pre-wrap;line-height:1.18;border:1px solid #a5bcbd;text-align:left;font-weight:400}
+.reveal .table-object th{font-weight:700;padding-top:8px}
+.reveal .slides section.present .motion{animation:enter .38s cubic-bezier(.22,.61,.36,1) both;animation-delay:var(--delay,60ms)}
+@keyframes enter{from{opacity:0;translate:0 9px}to{opacity:1;translate:0 0}}
+.reveal.overview .motion{animation:none!important;translate:none!important;opacity:1!important}
+.reveal .progress{height:3px;color:var(--teal)}
+.presentation-tools{position:fixed;left:50%;bottom:max(8px,env(safe-area-inset-bottom));translate:-50% 0;z-index:30;display:flex;align-items:center;gap:5px;padding:6px 9px;border:1px solid #d8e9e631;border-radius:12px;background:#153541ee;box-shadow:0 3px 16px #0003;color:#e9f1ef;font-size:13px;opacity:1;transition:opacity .2s}
+.presentation-tools button,dialog button{font:inherit;border:0;background:transparent;color:inherit;padding:8px 11px;border-radius:6px;cursor:pointer;white-space:nowrap}
+.presentation-tools button:hover,.presentation-tools button:focus-visible{background:#ffffff20;outline:2px solid #a9c4c6;outline-offset:1px}
+.presentation-tools button:disabled{opacity:.3;cursor:default;outline:none;background:none}
+.presentation-tools #counter{min-width:46px;text-align:center;font-size:12px;font-variant-numeric:tabular-nums}
+.tool-divider{width:1px;height:18px;background:#ffffff30;margin:0 3px}
+body.tools-hidden .presentation-tools{opacity:0;pointer-events:none}
+.presentation-tools:focus-within{opacity:1!important;pointer-events:auto!important}
+dialog{max-width:min(510px,calc(100vw - 44px));margin:auto;border:1px solid #a5bcbd;border-radius:16px;padding:28px 32px;background:var(--paper);color:var(--navy);font-size:15px;line-height:1.6;box-shadow:0 20px 80px #0006}
+dialog::backdrop{background:#0d202dc2}
+dialog h2{font-size:23px;font-weight:700;margin:0 0 8px}
+dialog p{margin:10px 0}
+dialog dl{display:grid;grid-template-columns:auto 1fr;gap:9px 22px;margin:20px 0}
+dialog dt{font-weight:700}dialog dd{margin:0}
+dialog a{color:var(--teal);font-weight:700}
+dialog button{display:block;background:var(--navy);color:white;margin-top:20px;padding:10px 18px}
+dialog button:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
+.no-js{position:fixed;inset:0;display:grid;place-content:center;color:white;padding:30px}
+.no-js a{color:#a9c4c6}
+@media(max-width:600px){.presentation-tools{gap:1px;font-size:12px;padding:4px}.presentation-tools button{padding:7px 8px}dialog{padding:22px}dialog dl{gap:9px 14px}}
+@media(prefers-reduced-motion:reduce){.reveal .slides section.present .motion{animation:none}.presentation-tools{transition:none}}
+@media print{.presentation-tools,dialog{display:none!important}.motion{animation:none!important;opacity:1!important;translate:none!important}}
