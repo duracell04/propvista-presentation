@@ -3,144 +3,168 @@
     "number": 1,
     "week": 0,
     "title": "Informatikpraktikum bei Tatsson.com",
-    "seconds": 10
+    "seconds": 10,
+    "plan_week": 0
   },
   {
     "number": 2,
-    "week": 1,
+    "week": 0,
     "title": "Mein Praktikumsgeber",
-    "seconds": 18
+    "seconds": 18,
+    "plan_week": 1
   },
   {
     "number": 3,
-    "week": 1,
+    "week": 0,
     "title": "Meine Ausgangslage",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 1
   },
   {
     "number": 4,
-    "week": 1,
+    "week": 0,
     "title": "Kundenbedarf und Projektauftrag",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 1
   },
   {
     "number": 5,
-    "week": 2,
+    "week": 1,
     "title": "Praxisbeispiel aus der Recherche",
-    "seconds": 18
+    "seconds": 18,
+    "plan_week": 2
   },
   {
     "number": 6,
-    "week": 2,
+    "week": 1,
     "title": "Wirtschaftliche Einordnung der Plugin-Idee",
-    "seconds": 22
+    "seconds": 22,
+    "plan_week": 2
   },
   {
     "number": 7,
-    "week": 2,
+    "week": 1,
     "title": "WordPress: Core, Theme und Plugin",
-    "seconds": 22
+    "seconds": 22,
+    "plan_week": 2
   },
   {
     "number": 8,
-    "week": 3,
+    "week": 2,
     "title": "PHP und das Client-Server-Modell",
-    "seconds": 26
+    "seconds": 26,
+    "plan_week": 3
   },
   {
     "number": 9,
-    "week": 3,
+    "week": 2,
     "title": "Hooks: Registrierung und Ausführung",
-    "seconds": 28
+    "seconds": 28,
+    "plan_week": 3
   },
   {
     "number": 10,
-    "week": 4,
+    "week": 3,
     "title": "Interne Testumgebung und Arbeitsablauf",
-    "seconds": 15
+    "seconds": 15,
+    "plan_week": 4
   },
   {
     "number": 11,
-    "week": 5,
+    "week": 4,
     "title": "Mockup und Benutzerführung",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 5
   },
   {
     "number": 12,
-    "week": 5,
+    "week": 4,
     "title": "Kernfunktion und Priorisierung mit Tato",
-    "seconds": 17
+    "seconds": 17,
+    "plan_week": 5
   },
   {
     "number": 13,
-    "week": 6,
+    "week": 5,
     "title": "Plugin-Grundgerüst und Zuständigkeiten",
-    "seconds": 16
+    "seconds": 16,
+    "plan_week": 6
   },
   {
     "number": 14,
-    "week": 7,
+    "week": 6,
     "title": "Datenstruktur und relative Markerpositionen",
-    "seconds": 18
+    "seconds": 18,
+    "plan_week": 7
   },
   {
     "number": 15,
-    "week": 7,
+    "week": 6,
     "title": "Kontrollpunkt: Zwischenbericht",
-    "seconds": 14
+    "seconds": 14,
+    "plan_week": 7
   },
   {
     "number": 16,
-    "week": 8,
+    "week": 7,
     "title": "Administration und geprüftes Speichern",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 8
   },
   {
     "number": 17,
-    "week": 8,
+    "week": 7,
     "title": "Speicherweg und späterer Seitenaufruf",
-    "seconds": 22
+    "seconds": 22,
+    "plan_week": 8
   },
   {
     "number": 18,
-    "week": 9,
+    "week": 8,
     "title": "Frontend-Integration mit einem Shortcode",
-    "seconds": 16
+    "seconds": 16,
+    "plan_week": 9
   },
   {
     "number": 19,
-    "week": 10,
+    "week": 9,
     "title": "Kernfunktion: Auswahl einer Einheit",
-    "seconds": 24
+    "seconds": 24,
+    "plan_week": 10
   },
   {
     "number": 20,
-    "week": 10,
+    "week": 9,
     "title": "Unabhängiger Zustand je Einbindung",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 10
   },
   {
     "number": 21,
-    "week": 11,
+    "week": 10,
     "title": "Tests, Ergebnisse und bekannte Grenzen",
-    "seconds": 20
+    "seconds": 20,
+    "plan_week": 11
   },
   {
     "number": 22,
-    "week": 11,
+    "week": 10,
     "title": "Fehleranalyse des Testablaufs",
-    "seconds": 18
+    "seconds": 18,
+    "plan_week": 11
   },
   {
     "number": 23,
-    "week": 12,
+    "week": 11,
     "title": "Dokumentation, Übergabe und Soll-Ist",
-    "seconds": 23
+    "seconds": 23,
+    "plan_week": 12
   },
   {
     "number": 24,
-    "week": 12,
+    "week": 11,
     "title": "Fazit: Technik, Arbeitsweise und Ausblick",
-    "seconds": 23
+    "seconds": 23,
+    "plan_week": 12
   }
 ]

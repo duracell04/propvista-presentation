@@ -2,7 +2,7 @@
 
 Browserpräsentation von Enrique Georg Zbinden über das zwölfwöchige Informatikpraktikum bei Tatsson.com, 29. Juni bis 18. September 2026.
 
-24 Folien: Titelfolie und 23 Wochenfolien. Woche 1 umfasst die Vorstellung des Praktikumsgebers, meine Ausgangslage sowie Kundenbedarf und Projektauftrag. Die genehmigten Planwochen und später belegten Umsetzungstermine sind ausdrücklich unterscheidbar.
+24 Folien: Die Titelfolie und drei Einführungsfolien bilden Woche 0. Die folgenden Rückblicke beginnen mit Woche 1. Die bisherigen Wochen 2 bis 12 erscheinen dafür als Wochen 1 bis 11. Die ursprünglichen Planwochen bleiben in data-plan-week und plan_week nachvollziehbar. Die genehmigten Planwochen und später belegten Umsetzungstermine sind ausdrücklich unterscheidbar.
 
 ## Präsentieren
 
