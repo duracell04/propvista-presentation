@@ -15,3 +15,9 @@ Statische HTML-Präsentation mit Reveal.js 6.0.2. Framework, Schriften und Bilde
 Reveal.js: MIT-Lizenz in vendor/reveal/LICENSE. Noto Sans: SIL Open Font License in assets/fonts/OFL.txt. Für das eigene Präsentationsmaterial wurde keine zusätzliche Nutzungslizenz erteilt.
 
 Die Browserfassung enthält die aktuellen Folienänderungen. presentation.pdf ist ausdrücklich als ursprüngliche 23-Folien-Fassung gekennzeichnet.
+
+## Quellenbasis und Vortragsvorbereitung
+
+Das [überarbeitete PropVista-Briefing](docs/PropVista_Informatikpraktikum_2026_Source_of_Truth.md) legt die massgebliche Schlussberichtfassung fest und trennt Planwochen, berichtete Vorbereitung, datierte Umsetzung/Tests und Übergabe. Es enthält persönliche Sprechstützen, die konkrete Rollenverteilung bei KI-Unterstützung, Bildherkunft und Antworten auf technische Rückfragen.
+
+Für eine spätere Straffung empfiehlt das Briefing 17 Hauptfolien mit zwei längeren Vertiefungen und Reservefolien: 7:35 Minuten geplanter Inhalt plus Zeit für Übergänge. Die aktuelle Browserfassung umfasst weiterhin die oben beschriebenen 24 Folien. Das Hinzufügen des Briefings ändert weder Folien noch PDF und ersetzt keine gesprochene Probe.
