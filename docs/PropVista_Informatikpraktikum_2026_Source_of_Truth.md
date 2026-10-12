@@ -4,7 +4,7 @@ description: "Selbstständige Referenz für die Erstellung und Überarbeitung de
 language: "de-CH"
 date: "2026-10-12"
 status: "Überarbeitetes, beleggestütztes Präsentationsbriefing"
-revision: "2 – Auditkorrekturen vom 12.10.2026"
+revision: "3 – bestätigte Woche-0-Struktur vom 12.10.2026"
 canonical_final_report: "Schlussbericht_Informatikpraktikum_Enrique_Georg_Zbinden.pdf, 30.09.2026, 3 Seiten"
 project: "Informatikpraktikum bei LTD Tatsson.com / PropVista"
 ---
@@ -25,12 +25,20 @@ project: "Informatikpraktikum bei LTD Tatsson.com / PropVista"
 3. **Verwende den Praktikumsprototyp 0.1.0** und seine festgehaltenen Quellenstände. Spätere Produktarbeit gehört in den Ausblick. Bestehende Folien sind Gestaltungsmaterial, keine eigenständigen Tatsachenbelege.
 4. **Zeige sinnvolle Originalartefakte:** lesbare Codeausschnitte, relevante Screenshots und konkrete Tests. Keine Screenshot-Quote. Bildbeschriftungen nennen Herkunft und tatsächliches Aufnahmedatum; Rekonstruktionen werden bezeichnet.
 5. **Erhalte alle zwölf Planwochen als Orientierung**, ohne wöchentlich abgeschlossene Implementierungen zu behaupten. Der Bericht beschreibt frühe Vorbereitung; datierte technische Umsetzungs-/Prüfnachweise konzentrieren sich auf **12./13. September**. Ein Sprintordner beweist keinen Arbeitszeitpunkt im Juli oder August.
-6. **Plane 17 Hauptfolien und Reservefolien.** Zwei Vertiefungen erhalten **50 bzw. 60 Sekunden**: Mockup/Scope und der vollständige Datenweg. Der Speichertest bleibt eine kurze Diagnosegeschichte.
+6. **Verwende den bestätigten 25-Folien-Aufbau aus Abschnitt 0.1.** Woche 0 bleibt Vorgeschichte; danach folgen die zwölf offiziellen Planwochen. Die 17-Hauptfolien-Variante mit Reservefolien und zwei längeren Vertiefungen in Abschnitt 6.2 bleibt eine spätere Kürzungsoption. Der Speichertest bleibt eine kurze Diagnosegeschichte.
 7. **Verankere drei persönliche Erfahrungen:** PHP/WordPress-Einarbeitung; zusätzliche Ideen und Tatos Hilfe beim Priorisieren; der fehlgeschlagene Speichertest. Verbinde die frühe Scope-Beobachtung mit der späteren Integrationsverzögerung. Formulierungsbeispiele sind kein auswendig zu lernendes Manuskript.
 8. **Mache Eigenleistung und KI-Unterstützung konkret:** welches Prüfkriterium ich festlegte, welche Lösung ich beurteilte, wobei ChatGPT/Codex halfen und was ich tatsächlich selbst nachvollzog oder überprüfte. Automatisierte/unterstützte Tests nicht pauschal als eigenhändig ausgeführte manuelle Tests bezeichnen. Keine erfundene Quote selbst geschriebenen Codes.
-9. **Prüfe Verständlichkeit und Redezeit:** Mitstudierende müssen Auftrag, Datenweg, Entscheidungen und Grenzen nachvollziehen können. **455 Sekunden Inhalt** lassen 25 Sekunden bis zur Acht-Minuten-Grenze; mit Übergängen etwa **7:45–7:50** anstreben. Die gesprochene Probe entscheidet über Kürzungen. Technische Rückfragen anhand Abschnitt 9 üben.
+9. **Prüfe Verständlichkeit und Redezeit:** Mitstudierende müssen Auftrag, Datenweg, Entscheidungen und Grenzen nachvollziehen können. Der bestätigte Sprechplan umfasst **435 Sekunden = 7:15 Minuten** und lässt **45 Sekunden Reserve** bis zur Acht-Minuten-Grenze. Die gesprochene Probe entscheidet über die tatsächliche Dauer und nötige Kürzungen. Technische Rückfragen anhand Abschnitt 9 üben.
 
 Diese Regeln betreffen eine spätere Folienüberarbeitung. Das Hinzufügen dieses Briefings allein ändert die bestehende Browserpräsentation nicht.
+
+## 0.1 Bestätigter aktueller Präsentationsaufbau
+
+Der Nutzer hat die folgende Struktur zur Umsetzung bestätigt: **25 Folien**, mit einer Titelfolie, drei Folien **Woche 0 – Vorgeschichte**, einer eigenständigen **Woche 1 – Ankommen und Orientierung**, den unverändert nummerierten **Planwochen 2–12** und einem Fazit. Woche 0 ist eine erzählerische Einleitung ausserhalb des offiziellen Praktikumszeitraums; sie ersetzt und verschiebt keine Planwoche.
+
+Folienzuordnung: 1 Titel; 2–4 Woche 0; 5 Woche 1; 6–8 Woche 2; 9–10 Woche 3; 11 Woche 4; 12–13 Woche 5; 14 Woche 6; 15–16 Woche 7; 17–18 Woche 8; 19 Woche 9; 20–21 Woche 10; 22–23 Woche 11; 24 Woche 12; 25 Fazit.
+
+Woche 1 beschreibt nur belegte Abläufe: kurze Abstimmungen mit Tato, Fortschritt und offene technische Fragen, schriftliche Umfangsentscheidungen, Anforderungen, Abgrenzung, Kernablauf und erste Recherche. Konkrete Teamroutinen, Theme-/Plugin-Namen oder zusätzliche Werkzeuge werden nicht erfunden. Sprechplan: **435 Sekunden = 7:15 Minuten**, mit **45 Sekunden Reserve** bis 8:00. Die tatsächliche Redezeit entscheidet eine persönliche gesprochene Probe. Die Alternative mit 17 Hauptfolien in Abschnitt 6.2 ist eine spätere Kürzungsoption und ersetzt diesen bestätigten Auftrag nicht.
 
 ---
 
@@ -450,7 +458,7 @@ Alle zwölf Planwochen bleiben als Orientierung erkennbar. Die frühen WordPress
 
 **Bei zu langer Probe:** zuerst Kontext/Recherche kürzen oder reine Bildfolien zusammenführen. Auftrag, technische Erklärung, ehrliche Ergebnisbeurteilung und Schluss nicht streichen. Die Reserve wird nicht im Hauptvortrag „schnell noch“ durchgeklickt.
 
-**Bezug zur aktuellen Website:** Bei der Überarbeitung dieses Briefings listet das Präsentations-Repository **24 Folien**. Der neue Plan ist eine Empfehlung für deren spätere Kürzung und keine Behauptung, die Website sei bereits angepasst oder die Redezeit gemessen.
+**Bezug zur aktuellen Website:** Der bestätigte Aufbau umfasst **25 Folien** mit Woche 0 als Vorgeschichte und zwölf offiziellen Planwochen (Abschnitt 0.1). Die hier beschriebene 17-Folien-Variante bleibt eine Empfehlung für eine spätere Kürzung; die Redezeit ist nicht gemessen.
 
 ## 6.3 Was die zwei Vertiefungen erklären sollen
 
