@@ -2,11 +2,11 @@
 
 Browserpräsentation von Enrique Georg Zbinden über das zwölfwöchige Informatikpraktikum bei Tatsson.com, 29. Juni bis 18. September 2026.
 
-24 Folien: Die Titelfolie und drei Einführungsfolien bilden Woche 0. Die folgenden Rückblicke beginnen mit Woche 1. Die bisherigen Wochen 2 bis 12 erscheinen dafür als Wochen 1 bis 11. Die ursprünglichen Planwochen bleiben in data-plan-week und plan_week nachvollziehbar. Die genehmigten Planwochen und später belegten Umsetzungstermine sind ausdrücklich unterscheidbar.
+24 Folien: Folien 1–3 bilden die Einleitung ohne Wochenzählung. Folie 4 zeigt Woche 1, Projektstart und Orientierung. Folien 5–23 folgen den genehmigten Planwochen 2–12. Damit sind die zwölf Wochen 1–12 vollständig dargestellt. Folie 24 bildet das Fazit. Die sichtbaren Wochenbeschriftungen, data-week, data-plan-week und slides.json stimmen überein. Planmeilensteine und spätere datierte Umsetzungs-/Prüfnachweise bleiben ausdrücklich unterscheidbar.
 
 ## Präsentieren
 
-Die GitHub-Pages-Website öffnen. Pfeiltasten oder Leertaste wechseln die Folien. **F** aktiviert Vollbild, **Esc** die Übersicht und **S** die Sprechernotizen in einem eigenen Fenster. Die Zielzeit von 7:50 Minuten ersetzt keine gesprochene Probe.
+Die GitHub-Pages-Website öffnen. Pfeiltasten oder Leertaste wechseln die Folien. **F** aktiviert Vollbild, **Esc** die Übersicht und **S** die Sprechernotizen in einem eigenen Fenster. Der Sprechplan umfasst 7:19 Minuten und lässt 41 Sekunden bis 8:00 für Übergänge und Pausen. Eine persönliche gesprochene Probe entscheidet über die tatsächliche Dauer.
 
 ## Technik
 
@@ -14,7 +14,7 @@ Statische HTML-Präsentation mit Reveal.js 6.0.2. Framework, Schriften und Bilde
 
 Reveal.js: MIT-Lizenz in vendor/reveal/LICENSE. Noto Sans: SIL Open Font License in assets/fonts/OFL.txt. Für das eigene Präsentationsmaterial wurde keine zusätzliche Nutzungslizenz erteilt.
 
-Die Browserfassung enthält die aktuellen Folienänderungen. presentation.pdf ist ausdrücklich als ursprüngliche 23-Folien-Fassung gekennzeichnet.
+Die Browserfassung und presentation.pdf enthalten denselben aktuellen Stand mit 24 Folien. Quellen stehen in den Sprechernotizen. Die PDF zeigt keine Quellenzeilen und keine Wochenzählung in Einleitung und Fazit.
 
 ## Quellenbasis und Vortragsvorbereitung
 
